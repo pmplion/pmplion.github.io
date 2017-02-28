@@ -9,7 +9,7 @@
    </head>
     <body>
         <div class="container">
-            <a href="/"><img src="Space-Tap-logo-v2-dark-1.png" alt="Spacetap logo" class="img-responsive center-block"></a>
+            <a href="/"><img src="/Space-Tap-logo-v2-dark-1.png" alt="Spacetap logo" class="img-responsive center-block"></a>
         </div>
         
         <div class="container">
