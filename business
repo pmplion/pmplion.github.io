@@ -23,7 +23,7 @@
                 <div class="collapse navbar-collapse" id="my-navbar">
                     <ul class="nav navbar-nav navbar-right">
                         <li><a href="../">Home</a></li>
-                        <li><a href="/product/">Improve your product</a></li>
+                        <li><a href="/product.html/">Improve your product</a></li>
                         <li class="active"><a href="/business/">Improve your business</a></li>
                         <li><a href="/contact/">Contact</a></li>
                     </ul>
