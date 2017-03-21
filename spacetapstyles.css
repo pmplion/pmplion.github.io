@@ -1,0 +1,104 @@
+#spacetap {
+    display: block;
+    padding: 14% 0% 4% 0%;
+    text-align: center;
+}
+
+#sprintstlogo {
+    position: static;
+    padding: 0px 35px 0px 0px;
+    vertical-align: middle;
+}
+
+#deseyen {
+    position: static;
+    padding: 0px 0px 0px 35px;
+    vertical-align: middle;
+}
+
+#brands {
+    margin: auto;
+    text-align: center;
+}
+
+#line {
+    margin:auto;
+    text-align: center;
+    padding-bottom: 2em
+}
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+    position: relative; 
+    margin: 0;
+    padding-bottom: 6rem;
+    min-height: 100%;
+    background-color: #fff;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0% 5% 0% 5%;
+    background-color: #efefef;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.footer p {
+    width: 50%;
+    float: left;
+    display: inline-block;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: #222;
+}
+
+.footer a {
+    display: inline-block;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: #222;
+    text-decoration: none;
+    padding: 1em;
+    float: right;
+}
+
+.footer a:hover {
+    color: #c7c7c7;
+}
+
+#supur {
+    position: absolute;
+    display: block;
+    margin: auto;
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    padding: 0em 0em 0em 0em;
+    text-align: center;
+}
+
+#supur div img {
+    margin: auto;
+    padding-top: 40vh;
+}
+
+#supur div p {
+    text-align: center;
+    font-family: Source Sans Pro, sans-serif;
+    font-weight: 100;
+    font-size: 26px;
+}
