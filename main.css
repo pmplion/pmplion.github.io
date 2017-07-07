@@ -58,7 +58,7 @@ p {
 }
 
 .bg-overlay-lg {
-    background: url(/media/headerimage.png);
+    background: url(/Media/headerimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -70,7 +70,7 @@ p {
 }
 
 .bg-overlay-sm {
-    background: url(/media/headerimage.png);
+    background: url(/Media/headerimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -314,32 +314,25 @@ cursor: pointer;
     width: 96.2vw;
     margin-left: 3.8vw;
     box-shadow: 0 2px 5px 0 rgba(0,0,0,0.10);
+    vertical-align: middle;
+    overflow: auto;
+    text-align: center;
+}
+
+.infographic-section {
+    width: 100vw;
+    margin-top: 5%;
 }
 
 .section-three-graphic {
     display: block;
-    margin: auto;
-    width: 66%;
-    margin-top: 7.5vh;
-}
-
-
-
-#section-three-bg h4 {
-    margin-top: 7.5vh;
-    color: #fff;
-    letter-spacing: 1.52px;
-    font-size: 24px;
-    font-weight: 400;
-}
-
-.section-three-sub-p {
-    color: #fff;
-    font-size: 18px;
-    letter-spacing: 1.52px;
-    line-height: 24px;
-    font-weight: 100;
-    margin-top: 2.5vh;
+    margin-left: 10%;
+    margin-top: auto%;
+    margin-bottom: auto% !important;
+    padding-top: 5%;
+    width: 80%;
+    vertical-align: middle;
+    padding-top: 5%
 }
 
 .section-three-sm {
@@ -920,7 +913,7 @@ cursor: pointer;
 }
 
 .feature-image {
-    background-image: url(/media/featureimage.png);
+    background-image: url(/Media/featureimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -981,7 +974,7 @@ cursor: pointer;
 -------------------------------------------------- */
 
 .feature-image-md {
-    background-image: url(/media/featureimage.png);
+    background-image: url(/Media/featureimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
