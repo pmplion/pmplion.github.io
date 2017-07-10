@@ -58,7 +58,7 @@ p {
 }
 
 .bg-overlay-lg {
-    background: url(/Media/headerimage.png);
+    background: url(/media/headerimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -70,7 +70,7 @@ p {
 }
 
 .bg-overlay-sm {
-    background: url(/Media/headerimage.png);
+    background: url(/media/headerimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -913,7 +913,7 @@ cursor: pointer;
 }
 
 .feature-image {
-    background-image: url(/Media/featureimage.png);
+    background-image: url(/media/featureimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -974,7 +974,7 @@ cursor: pointer;
 -------------------------------------------------- */
 
 .feature-image-md {
-    background-image: url(/Media/featureimage.png);
+    background-image: url(/media/featureimage.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
